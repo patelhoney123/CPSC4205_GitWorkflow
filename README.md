@@ -1,8 +1,11 @@
 # Student Information Card
 
-This project is for my CPSC 4205 assignment.
-It displays basic student information using Java and Python.
-This repository is used to practice Git and GitHub version control.
+Name: Honey Patel  
+Course: CPSC 4205 – GUI Development  
+
+This project displays a student information card using Java/Python. 
+It shows the student name, major, and graduation year.
+
 
 ## Features
 
