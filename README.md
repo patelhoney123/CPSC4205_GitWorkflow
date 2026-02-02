@@ -1,20 +1,24 @@
 # Student Information Card
 
-[Add your 2-3 sentence description here]
+This project is for my CPSC 4205 assignment.
+It displays basic student information using Java and Python.
+This repository is used to practice Git and GitHub version control.
 
 ## Features
 
-- Display student name (original)
-- Display major and graduation year (original)
-- [Add your new features here as you complete them]
+- Honey Patel
+- Information technology(IT)
+- 2026
 
 ## Technologies Used
 
-- [Coding Language python or java, which did you use]
-- Git for version control
-- GitHub for repository hosting
+- Python
+- Java
+- Git
+- GitHub
 
 ## Installation and Setup
+Download the files and run student_info.py or StudentInfo.java.
 
 ### Prerequisites
 [List what's needed to run your program]
