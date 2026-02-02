@@ -1,11 +1,13 @@
-name = "John Doe"
-major = "Information Technology"
-graduation_year = 2025
+# Student Information Card
 
-print("==========================================")
-print("       STUDENT INFORMATION CARD")
-print("==========================================")
+name = "Honey Patel"
+major = "Information Technology"
+graduation_year = 2026
+email = "patel_honey@students.columbusstate.edu"
+
+print("========== STUDENT PROFILE ==========")
 print(f"Name: {name}")
 print(f"Major: {major}")
 print(f"Graduation Year: {graduation_year}")
-print("==========================================")
+print(f"Email: {email}")
+print("=====================================")
