@@ -1,3 +1,8 @@
+# Student Information Card
+# This program prints a formatted profile card for a student.
+# It shows name, major, graduation year, email, hometown, and favorite course/hobby.
+
+# Student details
 name = "Honey Patel"
 major = "Information Technology"
 graduation_year = 2026
